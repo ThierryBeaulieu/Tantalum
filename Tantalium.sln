@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLRenderer", "OpenGLRenderer\OpenGLRenderer.csproj", "{3232EA25-ED17-454F-903D-7668A9EA54E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineCore", "EngineCore\EngineCore.csproj", "{7198D93D-F29C-4516-ABA0-0214D269ED34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineTests", "EngineTests\EngineTests.csproj", "{AB47C79B-1D86-48B9-89A9-46AF1D11CA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3232EA25-ED17-454F-903D-7668A9EA54E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3232EA25-ED17-454F-903D-7668A9EA54E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3232EA25-ED17-454F-903D-7668A9EA54E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3232EA25-ED17-454F-903D-7668A9EA54E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7198D93D-F29C-4516-ABA0-0214D269ED34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7198D93D-F29C-4516-ABA0-0214D269ED34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7198D93D-F29C-4516-ABA0-0214D269ED34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7198D93D-F29C-4516-ABA0-0214D269ED34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB47C79B-1D86-48B9-89A9-46AF1D11CA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB47C79B-1D86-48B9-89A9-46AF1D11CA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB47C79B-1D86-48B9-89A9-46AF1D11CA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB47C79B-1D86-48B9-89A9-46AF1D11CA30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
